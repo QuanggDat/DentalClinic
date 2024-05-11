@@ -4,7 +4,7 @@
 * Language : Java, HtmL, CSS, and Javascript
 * Database : Microsoft SQL Server 
 
-### Screen shot
+### Screen 
 ![Img Make An Appoinment](https://github.com/QuanggDat/DetalClinic/blob/main/images/(1)MakeAppointment.png)
 <img alt="" src="">
 
