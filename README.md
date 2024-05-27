@@ -1,4 +1,4 @@
-# Welcome to Dental-Clinic Repository 👋
+# Welcome to Dental-Clinic Project 👋
 
 ## Technology :
 * Language : Java, HtmL, CSS, and Javascript
